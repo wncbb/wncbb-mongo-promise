@@ -1,5 +1,5 @@
 {
-  "name": "td-mongodb-promise",
+  "name": "wncbb-mongodb-promise",
   "version": "0.0.1",
   "description": "promise wrapper for mongodb",
   "main": "lib/index.js",
